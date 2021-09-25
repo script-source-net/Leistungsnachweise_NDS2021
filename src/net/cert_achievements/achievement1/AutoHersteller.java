@@ -1,4 +1,4 @@
-package net.leistungsnachweise.nachweis1;
+package net.cert_achievements.achievement1;
 
 public class AutoHersteller {
     public static void main(String[] args) {
